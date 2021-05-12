@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using ASP.NET_Core_CRUD_Web_App.Models;
 
 namespace ASP.NET_Core_CRUD_Web_App.Data
 {
@@ -12,5 +13,6 @@ namespace ASP.NET_Core_CRUD_Web_App.Data
             : base(options)
         {
         }
+        public DbSet<ASP.NET_Core_CRUD_Web_App.Models.Joke> Joke { get; set; }
     }
 }
