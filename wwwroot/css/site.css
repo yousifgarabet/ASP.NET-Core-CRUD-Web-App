@@ -13,9 +13,11 @@ a {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+    font-size: 26px;
+    font-style:oblique;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
@@ -27,7 +29,7 @@ a {
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  font-size: 14px;
+  font-size: 18px;
 }
 @media (min-width: 768px) {
   html {
@@ -61,6 +63,7 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+  background-color:#eee;
 }
 .footer {
   position: absolute;
