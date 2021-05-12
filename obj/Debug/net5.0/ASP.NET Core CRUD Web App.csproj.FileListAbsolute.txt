@@ -162,3 +162,4 @@ C:\Users\yousi\source\repos\ASP.NET Core CRUD Web App\obj\Debug\net5.0\Razor\Vie
 C:\Users\yousi\source\repos\ASP.NET Core CRUD Web App\obj\Debug\net5.0\Razor\Views\Jokes\Details.cshtml.g.cs
 C:\Users\yousi\source\repos\ASP.NET Core CRUD Web App\obj\Debug\net5.0\Razor\Views\Jokes\Edit.cshtml.g.cs
 C:\Users\yousi\source\repos\ASP.NET Core CRUD Web App\obj\Debug\net5.0\Razor\Views\Jokes\Index.cshtml.g.cs
+C:\Users\yousi\source\repos\ASP.NET Core CRUD Web App\obj\Debug\net5.0\Razor\Views\Jokes\Search.cshtml.g.cs
